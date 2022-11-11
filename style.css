@@ -1,0 +1,17 @@
+body{
+    background-color: #CEDEEA;
+    text-align: center;
+    font-family: Arial, Helvetica, Sans-serif;
+  color: yellow;
+    height: 550px;
+  background-image: url("imagenes/1.gif");
+  background-repeat:no-repeat;
+  background-position-x:center;
+  background-position-y:left;
+  background-size: 38rem;
+}
+.p{
+    font-family: Arial, Helvetica, Sans-serif;
+  color: white;
+  background-color: blue;
+}
